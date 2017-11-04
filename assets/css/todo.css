@@ -1,5 +1,10 @@
 #container {
-    background-color: pink;
+    border: 2px solid pink;
     width: 360px;
     margin: 0 auto;
+}
+
+.completed {
+    color: lightslategray;
+    text-decoration: line-through;
 }
